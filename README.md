@@ -42,7 +42,7 @@ Mi objetivo es seguir creciendo en un entorno profesional, aportar valor desde e
 Aquí puedes ver mi portfolio online:  
 [![Portfolio](https://img.shields.io/badge/🌎%20Visitar%20portfolio-000?style=for-the-badge)](https://portfolio-jaume-esquerdo.vercel.app/)
 
-![Portfolio Preview](./assets/preview.png)
+![Portfolio Preview](./assets/preview-portfolio.png)
 
 ---
 
