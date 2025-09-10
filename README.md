@@ -4,6 +4,7 @@
 Soy **desarrollador web full stack con 1 año de experiencia**, especializado en la creación de **interfaces interactivas y adaptadas a web y móvil** (HTML, CSS, JavaScript, React, Framer Motion) y en el desarrollo de aplicaciones con **backend en Node.js, Express y MongoDB**.  
 
 Tras una etapa en turismo y marketing digital, decidí reinventarme en el mundo del desarrollo web, un campo que me apasiona por su equilibrio entre **creatividad y técnica**.  
+
 Mi objetivo es seguir creciendo en un entorno profesional, aportar valor desde el primer día y consolidar mi camino como desarrollador.
 
 ---
