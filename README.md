@@ -17,7 +17,7 @@ Mi objetivo es seguir creciendo en un entorno profesional, aportar valor desde e
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  ![CORS](https://img.shields.io/badge/CORS-FF6F00)  ![dotenv](https://img.shields.io/badge/dotenv-000000)  ![Multer](https://img.shields.io/badge/Multer-FFCC00)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  ![CORS](https://img.shields.io/badge/CORS-FF6F00)  ![dotenv](https://img.shields.io/badge/dotenv-000000)  ![Multer](https://img.shields.io/badge/Multer-FFCC00)
 
 **Otras tecnologías**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
