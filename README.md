@@ -1,4 +1,4 @@
-# 👋 ¡Buenas! bienvenido a mi perfil
+# 👋 ¡Buenas! bienvenido a mi perfil...
 
 ## 🧑‍💻 Sobre mí
 Soy **desarrollador web full stack con 1 año de experiencia**, especializado en la creación de **interfaces interactivas y adaptadas a web y móvil** (HTML, CSS, JavaScript, React, Framer Motion) y en el desarrollo de **aplicaciones con backend** (Node.js, Express, MongoDB y Mongoose).  
