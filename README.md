@@ -11,15 +11,20 @@ Mi objetivo es seguir creciendo en un entorno profesional, aportar valor desde e
 
 ## 🛠️ Herramientas familiares
 
-**Frontend**  
+**🎨 Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
 
-**Backend**  
+**⚙️ Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  ![CORS](https://img.shields.io/badge/CORS-FF6F00)  ![dotenv](https://img.shields.io/badge/dotenv-000000)  ![Multer](https://img.shields.io/badge/Multer-FFCC00)
 
-**Otras tecnologías**  
+**🧪 Testing & QA**
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?logo=testinglibrary&logoColor=white)  
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+
+**🧰 Otras tecnologías**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visualstudiocode&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 
 ---
