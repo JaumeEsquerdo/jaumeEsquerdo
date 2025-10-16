@@ -20,8 +20,8 @@ Mi objetivo es seguir creciendo en un entorno profesional, aportar valor desde e
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  ![CORS](https://img.shields.io/badge/CORS-FF6F00)  ![dotenv](https://img.shields.io/badge/dotenv-000000)  ![Multer](https://img.shields.io/badge/Multer-FFCC00)
 
 **🧪 Testing & QA**
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?logo=testinglibrary&logoColor=white)  
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)  
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?logo=testinglibrary&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 
 **🧰 Otras tecnologías**  
