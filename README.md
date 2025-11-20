@@ -37,7 +37,7 @@ Mi objetivo es seguir creciendo en un entorno profesional, aportar valor desde e
 Aquí puedes ver mi portfolio online:  
 
 <a href="https://portfolio-jaume-esquerdo.vercel.app/" target="_blank">
-  <img src="./assets/preview-portfolio.png" alt="Portfolio Preview" width="600"/>
+  <img src="./assets/portfolio-img.png" alt="Portfolio Preview" width="600"/>
 </a>
 
 ---
